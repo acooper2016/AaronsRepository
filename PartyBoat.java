@@ -4,6 +4,7 @@ public class PartyBoat
 	{
 		int x = 4;
 		int y = 3;
-		System.out.println(y * x);
+		int z = 12;
+		System.out.println(y * x * z);
 	}
 }
